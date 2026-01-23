@@ -5,8 +5,7 @@
 	https://rl-bkdg.github.io/icon-file/png/secure.png
 	https://rl-bkdg.github.io/icon-file/png/recommendations.png
 	https://rl-bkdg.github.io/icon-file/png/omnichannel.png
+	https://rl-bkdg.github.io/icon-file/png/fast_delivery_truck.png
+	https://rl-bkdg.github.io/icon-file/png/trust-handshake-partnership-agreement.png
 
-
-	https://rl-bkdg.github.io/icon-file/png/secure.png
-	https://rl-bkdg.github.io/icon-file/png/shop.png
 ```
